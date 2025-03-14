@@ -23,6 +23,7 @@
   },
   "homepage": "https://github.com/FrancisK7L/express_workshop#readme",
   "dependencies": {
+    "body-parser": "^1.20.3",
     "express": "^4.21.2",
     "nodemon": "^3.1.9"
   }
