@@ -49,7 +49,7 @@ user.post("/login", async (req,res,next) => {
   }
  
   }
-  return res.status(500).json({code: 500, message: "campos incompletos"})
+  return res.status(200).json({code: 500, message: "campos incompletos"})
     
 });
 
